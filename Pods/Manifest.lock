@@ -1,0 +1,20 @@
+PODS:
+  - EZSwiftExtensions (2.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - EZSwiftExtensions (~> 2.0)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - EZSwiftExtensions
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  EZSwiftExtensions: f73648a591e529a1dbd83c22b19fd3e57df6fb7d
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 982d8447d8df0cc461c91709facf6a6dd26bbbe8
+
+COCOAPODS: 1.9.3
